@@ -8,9 +8,18 @@
 
 💬 Ask me about Computer Vision and Backend.
 
-📫 How to reach me: yuvarajcoder@gmail.com
+📫 Reach me out : [Connect](https://www.linkedin.com/in/yuvaraj-tankala-725822194/)
 
 😄 Pronouns: He/His
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
+<code><img height="20" src="https://www.python.org/static/opengraph-icon-200x200.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnt0s4-cSHFsZEacCtBUlw-mhL3CW2mI-KJw&usqp=CAU"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/27804?s=280&v=4"></code>
+<code><img height="20" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*1sEJe6Z0eGN-eL02.png"></code> 
 
 ![Yuvaraj's github stats](https://github-readme-stats.vercel.app/api?username=yuvaraj-06)
 <!---
