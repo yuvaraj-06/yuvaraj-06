@@ -1,3 +1,7 @@
+### Hi I'm Yuvaraj 👋
+<img src="https://komarev.com/ghpvc/?username=yuvaraj-06&label=Views&color=blue&style=plastic" alt="yuvaraj-06" />
+
+
 🔭 I’m currently working on building ML Models.
 
 🌱 I’m currently learning CP.
