@@ -21,7 +21,12 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/27804?s=280&v=4"></code>
 <code><img height="20" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*1sEJe6Z0eGN-eL02.png"></code> 
 
-![Yuvaraj's github stats](https://github-readme-stats.vercel.app/api?username=yuvaraj-06)
+<br>
+<a href="https://github.com/yuvaraj-06">
+   <img src="https://github-readme-stats.vercel.app/api?username=yuvaraj-06&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Yuvaraj's github stats" width=450px/>
+</a><br><br>
+ 
+ 
 <!---
 yuvaraj-06/yuvaraj-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
